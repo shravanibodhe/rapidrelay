@@ -1,0 +1,14 @@
+.env
+backend/.env
+frontend/.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.db
+rapidrelay.db
+node_modules/
+dist/
+build/
+.vscode/
+.DS_Store
